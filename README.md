@@ -1,5 +1,5 @@
 **프로젝트명 : Bickering-Trip**  
-Platform : Unity (C#)  
+Platform : Unity 2022.3.21f1 (C#)  
 Role : 메인 기획, 맵 디자인 및 게임 로직 및 시스템 개발  
 개발 인원 : 총 3인 (팀원 Role : 메인 화면 제작 및 에셋 탐색)  
 
