@@ -9,7 +9,7 @@ Role : 메인 기획, 맵 디자인 및 게임 로직 및 시스템 개발
 참고 노션 링크 : https://pickled-cake-5fc.notion.site/2777d705b8c141d08e66bd5aa932aa84  
 게임 플레이 영상 : https://youtu.be/BEp1fjFsLiQ  
 
-**코드 참고**   
+**코드 참고 (경로 Assets/Scripts)**  
 `BGMPlay.cs` : 스테이지에 따른 기존 BGM 스탑 및 새 BGM 실행  
 `AudioManager.cs` : 효과음 실행  
 `ButtenController.cs` : 시작 맵으로 이동 (게임 시작 버튼)  
